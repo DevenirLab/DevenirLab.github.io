@@ -1,2 +1,2 @@
 # DevenirLab.github.io
-Entorno para probar nuevas funcionalidades de Debenir, Consultoría Antropológica y Design Thinking
+Página oficial de Devenir Consultoría, Patient—Centered Designers
