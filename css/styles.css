@@ -630,7 +630,7 @@ summary {
 
 details[open] {
     width: auto;
-    max-height: 64rem;
+    max-height: 100rem;
 }
 
 details:last-of-type {
