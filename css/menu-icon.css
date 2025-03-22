@@ -3,9 +3,14 @@
     --primary: #0d03c6;;
 }
 .hamburger {
-    position: absolute;
-    right: 2rem;
-    top: 2rem;
+  position: absolute;
+  right: 2rem;
+  top: 0;
+  height: 100%;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
   }
   .hamburger a.main-nav-toggle {
     display: flex;
